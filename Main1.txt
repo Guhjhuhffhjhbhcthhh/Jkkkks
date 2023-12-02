@@ -1,7 +1,7 @@
 [
   {
     "IMG": "https://uploadkon.ir/uploads/2a7602_23IMG-20231128-193835-750.jpg",
-    "Name": "Riza",
-    "Age": "16"
+    "NAME": "Riza",
+    "AGE": "16"
   }
 ]

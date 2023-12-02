@@ -3,5 +3,25 @@
     "IMG": "https://uploadkon.ir/uploads/2a7602_23IMG-20231128-193835-750.jpg",
     "NAME": "Riza",
     "AGE": "16"
+  },
+  {
+    "IMG": "https://uploadkon.ir/uploads/2a7602_23IMG-20231128-193835-750.jpg",
+    "NAME": "parmis",
+    "AGE": "15"
+  },
+  {
+    "IMG": "https://uploadkon.ir/uploads/2a7602_23IMG-20231128-193835-750.jpg",
+    "NAME": "hh",
+    "AGE": "16"
+  },
+  {
+    "IMG": "https://uploadkon.ir/uploads/2a7602_23IMG-20231128-193835-750.jpg",
+    "NAME": "kna",
+    "AGE": "18"
+  },
+  {
+    "IMG": "https://uploadkon.ir/uploads/2a7602_23IMG-20231128-193835-750.jpg",
+    "NAME": "iin",
+    "AGE": "17"
   }
 ]
